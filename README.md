@@ -5,7 +5,7 @@
 
 📫 How to reach me: 19307130184@fudan.edu.cn.
 
-[![Nameless King's github stats](https://github-readme-stats.vercel.app/api?username=Name-less-King "![Nameless King's github stats")](https://github.com/Name-less-King/github-readme-stats)
+My friends: [Lesi Chen](https://github.com/TrueNobility303) [Yuanye Liu](https://github.com/HenryLau7)  [Xinfeng Yuan](https://github.com/Joanna0123)
 <!--
 **Name-less-King/Name-less-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
