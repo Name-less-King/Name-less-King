@@ -5,7 +5,7 @@
 
 📫 How to reach me: 19307130184@fudan.edu.cn.
 
-My friends: [Lesi Chen](https://github.com/TrueNobility303) &nbsp;   [Yuanye Liu](https://github.com/HenryLau7)   &nbsp; [Xinfeng Yuan](https://github.com/Joanna0123)
+My friends: [Lesi Chen](https://github.com/TrueNobility303) &nbsp;&nbsp;   [Yuanye Liu](https://github.com/HenryLau7)  &nbsp; &nbsp; [Xinfeng Yuan](https://github.com/Joanna0123)
 <!--
 **Name-less-King/Name-less-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
