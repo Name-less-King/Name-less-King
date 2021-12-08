@@ -1,9 +1,11 @@
 ### Hi there 👋
 🌱 I’m currently learning statistics. 
 
-💬 Ask me anything about the courses you are taking or you are going to take in School of Data Science, Fudan University.
+🔭 I’m currently working on high dimensional modeling.
 
 📫 How to reach me: 19307130184@fudan.edu.cn.
+
+
 
 My friends: [Lesi Chen](https://truenobility303.github.io) &nbsp;&nbsp;   [Yuanye Liu](https://github.com/HenryLau7)  &nbsp; &nbsp; [Xinfeng Yuan](https://github.com/Joanna0123)
 <!--
