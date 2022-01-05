@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning statistics. 
 
-🔭 I’m currently working on covariance regression model with Prof. [Xuening Zhu](https://xueningzhu.github.io/).
+🔭 I’m currently working on covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
 
 📫 How to reach me: 19307130184@fudan.edu.cn.
 
