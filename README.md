@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning statistics. 
+🌱 I’m currently learning statistics, optimization and mathmetics analysis. 
 
 🔭 I’m currently working on covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
 
