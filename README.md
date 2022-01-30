@@ -1,9 +1,9 @@
 ### Hi there 👋
-🌱 I’m currently learning statistics, optimization and mathematical analysis. 
+My research interest mainly lies in high-dimensional data modeling and theoretical machine learning.
 
-🔭 I’m currently working on covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
+I’m currently working on covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
 
-📫 How to reach me: 19307130184@fudan.edu.cn.
+You can reach me at 19307130184@fudan.edu.cn.
 
 
 
