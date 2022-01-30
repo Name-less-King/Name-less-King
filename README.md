@@ -1,7 +1,7 @@
 ### Hi there 👋
 My research interest mainly lies in high-dimensional data modeling and theoretical machine learning.
 
-I’m currently working on covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
+I’m currently working on sparse covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
 
 You can reach me at 19307130184@fudan.edu.cn.
 
