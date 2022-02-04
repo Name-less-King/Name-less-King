@@ -1,5 +1,5 @@
 ### Hi there 👋
-My research interest mainly lies in high-dimensional data modeling and theoretical machine learning.
+My research interest mainly lies in high-dimensional data modeling and statistical machine learning and its applications.
 
 I’m currently working on sparse covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
 
