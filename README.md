@@ -1,7 +1,9 @@
 ### Hi there 👋
-My research interest mainly lies in high-dimensional statistics and statistical machine learning and its applications.
+My research interest mainly lies in financial engineering, especially financial risk management.
 
 I’m currently working on sparse covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
+
+I will be studying for a Ph.D. at Fudan University, and my supervisor is [Prof. L. Jeff Hong](https://scholar.google.com.sg/citations?user=stZYMd8AAAAJ&hl=en).
 
 You can reach me at 19307130184@fudan.edu.cn.
 
