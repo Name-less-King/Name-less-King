@@ -3,7 +3,7 @@ My research interest mainly lies in financial engineering, especially financial 
 
 I’m currently working on sparse covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
 
-I will be studying for a Ph.D. at Fudan University, and my supervisor is [Prof. L. Jeff Hong](https://scholar.google.com.sg/citations?user=stZYMd8AAAAJ&hl=en).
+I will be studying for my Ph.D. degree at Fudan University, and my supervisor is [Prof. L. Jeff Hong](https://scholar.google.com.sg/citations?user=stZYMd8AAAAJ&hl=en).
 
 You can reach me at 19307130184@fudan.edu.cn.
 
