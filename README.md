@@ -1,5 +1,5 @@
 ### Hi there 👋
-My research interest mainly lies in financial engineering, especially financial risk management.
+My research interest mainly lies in operations research, statistical machine learning and its applications.
 
 I’m currently working on sparse covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
 
