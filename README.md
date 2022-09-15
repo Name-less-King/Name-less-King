@@ -1,7 +1,6 @@
 ### Hi there 👋
 My research interest mainly lies in operations research, statistical machine learning and its applications.
 
-I’m currently working on sparse covariance regression model with [Prof. Xuening Zhu](https://xueningzhu.github.io/).
 
 I will be studying for my Ph.D. degree at Fudan University, and my supervisor is [Prof. L. Jeff Hong](https://scholar.google.com.sg/citations?user=stZYMd8AAAAJ&hl=en).
 
