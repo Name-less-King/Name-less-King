@@ -6,9 +6,6 @@ I will be studying for my Ph.D. degree at Fudan University, and my supervisor is
 
 You can reach me at 19307130184@fudan.edu.cn.
 
-
-
-My friends: [Lesi Chen](https://truenobility303.github.io) &nbsp;&nbsp;   [Yuanye Liu](https://henrylau7.github.io)  &nbsp; &nbsp; [Boyuan Yao](https://cypher30.github.io) &nbsp; &nbsp; [YiFan Hu](https://huyifan2001.github.io) &nbsp; &nbsp; [Haodong Ling](https://milanmarks.github.io)
 <!--
 **Name-less-King/Name-less-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
