@@ -2,10 +2,6 @@
 My research interest mainly lies in operations research, statistical machine learning and its applications.
 
 
-I will be studying for my Ph.D. degree at Fudan University, and my supervisor is [Prof. L. Jeff Hong](https://scholar.google.com.sg/citations?user=stZYMd8AAAAJ&hl=en).
-
-You can reach me at 19307130184@fudan.edu.cn.
-
 <!--
 **Name-less-King/Name-less-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
